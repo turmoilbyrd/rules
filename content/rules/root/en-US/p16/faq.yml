@@ -73,7 +73,7 @@
   a: Immediately, as long as you spend a card. This means you can avoid the check for “no remaining warriors” prompted by the ambush.
   rules:
     - '4.3.1'
-    - '6.2.3'
+    - '6.2.2'
 
 - q: Can the Marquise place hirelings at the Keep?
   a: Yes!
